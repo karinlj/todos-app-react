@@ -2,7 +2,7 @@
 
 ### Description
 
-Todo Application for React.
+Todo Application for exploring React.
 ![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
 
 ### Prerequisites
