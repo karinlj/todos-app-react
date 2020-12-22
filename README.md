@@ -1,8 +1,9 @@
-# Todo App - React
+# Todo App - The React way
 
 ### Description
 
 Todo Application for React.
+![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
 
 ### Prerequisites
 
